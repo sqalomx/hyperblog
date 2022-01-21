@@ -4,3 +4,4 @@ Profesión: ISC
 Estado civil: CASADO
 Hijos: 1
 
+Fecha de nacimiento: 22/08/1986
